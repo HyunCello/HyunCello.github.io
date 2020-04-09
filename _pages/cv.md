@@ -12,7 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Robotics, Hanyang University, 2021(expected)
-   * Minor Degree in Computer Science
+  * 
+  * Minor Degree in Computer Science
+    * 
+* ESL in Southern Methodist University, 2018
+  * Learn 
 
 Work experience
 ======
@@ -46,14 +50,23 @@ Work experience
   
 Skills
 ======
-* ROS
 * C++
 * Python
-* 
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ROS
+* SLAM
+* Computer Vision
+* 3d CAD modeling
+* Web Programming
+  * HTML
+  * CSS
+  * JavaScript
+* Video Editing
+  * PremerePro
+  * AfterEffects
+* Image Editing
+  * Photoshop
+  * Illustrator
+
 
 Publications
 ======
