@@ -11,26 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Robotics, Hanyang University, 2021(expected)
+   * Minor Degree in Computer Science
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Vision Centric Challenge Korea
+  * Robofest
+  * Duties included: Motor control, Computer vision 
+  * Supervisor: Professor MinSung, Gang
+
+* Summer 2015: Open Door Using Manipulator on Mobile Robot
+  * Hanyang University
+  * Duties included: Embedded motor control
+  * Supervisor: Professor ChangSoo, Han
+
+* Sping to Winter 2019: Embedded Software Contest 2019 - Smart Home
+  * Korea Embedded Software and System Industry Association
+  * Duties included: WebOS, Server, Speaker in IOT
+  * Awarded : Top rate
+  * Supervisor: Professor MinSung, Gang
+  
+* Summer 2019: HESH (Hackerton)
+  * College of Computing, Hanyang University
+  * Duties included: 
+  
+* Fall 2020 to Summer 2021: Capstone Design - Delivery Robot
+  * Hanyang University
+  * Duties included: ROS, SLAM using Lidar, WebAPP
+  * Supervisor: Professor TaeJun, Park
+  
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* ROS
+* C++
+* Python
+* 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
